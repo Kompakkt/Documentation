@@ -1,0 +1,24 @@
+{
+  "name": "kompakktreadme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "contributors:add": "all-contributors add",
+    "contributors:generate": "all-contributors generate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kompakkt/Kompakkt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kompakkt/Kompakkt/issues"
+  },
+  "homepage": "https://github.com/Kompakkt/Kompakkt#readme",
+  "devDependencies": {
+    "all-contributors-cli": "^6.20.0"
+  }
+}

@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/DH-Cologne/Kompakkt.Repo/raw/master/src/assets/kompakkt-logo.png" alt="Kompakkt Logo" width="350">
+    <img src="https://github.com/DH-Cologne/Kompakkt.Repo/raw/master/src/assets/kompakkt-logo.png" alt="Kompakkt Logo" width="600">
 </p>
 
 This GitHub-repository holds information about Kompakkt, the Web Based 3D Viewer and 3D Annotation System https://kompakkt.de.

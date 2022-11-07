@@ -21,6 +21,6 @@ To start working on Kompakkt you can either set up the relevant services yoursel
 
 | Service | Description | Links |
 | ------- | ------- |:-----:|
-| **Repo** | Kompakkt.Repo is the frontend service of Kompakkt, allowing users to upload, view and share 3D or other multimedia objects | [Kompakkt.Repo](https://github.com/Kompakkt/Kompakkt/Repo)
-| **Viewer** | Kompakkt.Viewer is the 3D Viewer integrated into Kompakkt.Repo, used to display multimedia objects and to create & view annotations | [Kompakkt.Viewer](https://github.com/Kompakkt/Kompakkt/Viewer)
-| **Server** | Kompakkt.Server is the backend powering interactions between users, the Repo and the Viewer | [Kompakkt.Server](https://github.com/Kompakkt/Kompakkt/Server)
+| **Repo** | Kompakkt.Repo is the frontend service of Kompakkt, allowing users to upload, view and share 3D or other multimedia objects | [Kompakkt.Repo](https://github.com/Kompakkt/Repo)
+| **Viewer** | Kompakkt.Viewer is the 3D Viewer integrated into Kompakkt.Repo, used to display multimedia objects and to create & view annotations | [Kompakkt.Viewer](https://github.com/Kompakkt/Viewer)
+| **Server** | Kompakkt.Server is the backend powering interactions between users, the Repo and the Viewer | [Kompakkt.Server](https://github.com/Kompakkt/Server)

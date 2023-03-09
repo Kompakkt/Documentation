@@ -22,8 +22,8 @@ theme:
   name: 'material'
   icon:
     repo: fontawesome/brands/github
-  favicon: assets/logo.png
-  logo: assets/logo.png
+  favicon: assets/icon.png
+  logo: assets/icon_inverted.png
   features:
     - navigation.tabs
   palette:

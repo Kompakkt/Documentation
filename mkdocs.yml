@@ -10,6 +10,7 @@ nav:
   - Home: index.md
   - Account Management:
     - Introduction: account-management/introduction.md
+    - Create new account: account-management/create-new-account.md
   - Exploring:
     - Introduction: exploring/introduction.md
   - Uploading Objects:

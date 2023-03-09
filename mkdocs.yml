@@ -1,0 +1,54 @@
+site_name: Kompakkt Documentation
+site_description: 'Official documentation of Kompakkt'
+site_author: 'DH-Cologne'
+site_url: 'https://kompakkt.de/'
+docs_dir: docs/
+site_dir: site/
+repo_name: 'Kompakkt/Kompakkt'
+repo_url: 'https://github.com/Kompakkt/Kompakkt'
+nav:
+  - Home: index.md
+  - Account Management:
+    - Introduction: account-management/introduction.md
+  - Exploring:
+    - Introduction: exploring/introduction.md
+  - Uploading Objects:
+    - Introduction: uploading-objects/introduction.md
+  - Annotating:
+    - Introduction: annotating/introduction.md
+  - Collaborating:
+    - Introduction: collaborating/introduction.md
+theme:
+  name: 'material'
+  icon:
+    repo: fontawesome/brands/github
+  favicon: assets/logo.png
+  logo: assets/logo.png
+  features:
+    - navigation.tabs
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+use_directory_urls: true
+dev_addr: '127.0.0.1:8000'
+extra_css:
+  - stylesheets/extra.css
+extra_javascript:
+  - javascripts/extra.js
+plugins:
+  - search:
+      lang: en
+extra:
+  homepage: https://kompakkt.de

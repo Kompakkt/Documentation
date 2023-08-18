@@ -8,17 +8,11 @@ repo_name: 'Kompakkt/Kompakkt'
 repo_url: 'https://github.com/Kompakkt/Kompakkt'
 nav:
   - Home: index.md
-  - Account Management:
-    - Introduction: account-management/introduction.md
-    - Create new account: account-management/create-new-account.md
-  - Exploring:
-    - Introduction: exploring/introduction.md
-  - Uploading Objects:
-    - Introduction: uploading-objects/introduction.md
-  - Annotating:
-    - Introduction: annotating/introduction.md
-  - Collaborating:
-    - Introduction: collaborating/introduction.md
+  - Account Management: account-management/introduction.md
+  - Exploring: exploring/introduction.md
+  - Uploading Objects: uploading-objects/introduction.md
+  - Annotating: annotating/introduction.md
+  - Collaborating: collaborating/introduction.md
 theme:
   name: 'material'
   icon:

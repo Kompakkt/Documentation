@@ -2,4 +2,21 @@
   --md-primary-fg-color:        hsl(198, 100%, 44%);
   --md-primary-fg-color--light: hsl(198, 100%, 64%);
   --md-primary-fg-color--dark:  hsl(198, 100%, 24%);
+
+  --content-width: min(1024px, 100%);
+}
+
+.md-sidebar.md-sidebar--primary, .md-sidebar.md-sidebar--secondary {
+  display: none;
+}
+
+.md-main__inner {
+  width: var(--content-width) !important;
+}
+
+.md-tabs__list {
+  display: flex;
+  justify-content: space-around;
+  width: var(--content-width) !important;
+  margin: 0 auto !important;
 }

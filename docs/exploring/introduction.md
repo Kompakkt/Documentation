@@ -1,7 +1,7 @@
-The explore page encompasses all the published objects within Kompakkt. These filters include media type, annotatability, annotation status, restrictions, and associations. 
+The Explore page includes all published items in Kompakkt. These filters include media type, annotation capability, annotation status, restrictions, and associations.
 
-![Explore](Images/Explore.png){ width="800" }
+![Explore](Images/Explore.jpg){ width="1024" }
 
-If someone is searching for a particular object or collection, they have the option to search by name, aided by various filters. Additionally, users can sort the results based on usage.
+If someone is looking for a specific item or collection, they can search by name, using a variety of filters. Additionally, users can sort the results based on usage.
 
-![Filters](Images/Filters.png){ width="800" }
+![Filters](Images/Filters.jpg){ width="1024" }
